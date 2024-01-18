@@ -11,6 +11,11 @@ public class BowlingGameTest {
 
     @Test
     public void gugaTestOne(){
+
+    }
+
+    @Test
+    public void gugaTestTwo(){
         
     }
 }
