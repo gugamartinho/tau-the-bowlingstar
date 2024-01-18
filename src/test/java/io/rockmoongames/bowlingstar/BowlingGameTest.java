@@ -18,4 +18,9 @@ public class BowlingGameTest {
     public void gugaTestTwo(){
         
     }
+
+    @Test
+    public void gugaTest3(){
+        
+    }
 }
