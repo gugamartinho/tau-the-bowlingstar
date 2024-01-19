@@ -21,4 +21,9 @@ public class BowlingGame2Test {
         
     }
 
+    @Test
+    public void Test8() {
+        
+    }
+
 }
